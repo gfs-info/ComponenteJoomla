@@ -558,3 +558,4 @@ $RECYCLE.BIN/
 # Test Related Files #
 /phpunit.xml
 
+/nbproject
