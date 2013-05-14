@@ -537,4 +537,17 @@ $RECYCLE.BIN/
 /templates/system/
 /tmp/
 /web.config.txt
+/.htaccess
+/web.config
+
+
+# IDE & System Related Files #
+.buildpath
+.project
+.settings
+.DS_Store
+.idea
+
+# Test Related Files #
+/phpunit.xml
 
